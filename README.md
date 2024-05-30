@@ -8,17 +8,17 @@ O projeto está hospedado na plataforma Vercel. Você pode acessá-lo [aqui](htt
 
 ## Como Utilizar
 
-### Instalação
-🔧 npm install
+### 🔧 Instalação
+```npm install```
 
 
-### Compilar e recarregar automaticamente para desenvolvimento
-🚀 npm run serve
+### 🚀 Compilar e recarregar automaticamente para desenvolvimento
+```npm run serve```
 
 
-### Compilar e minificar para produção
-🛠️ npm run build
+### 🛠️ Compilar e minificar para produção
+ ```npm run build```
 
 
-### Lint e correção de arquivos
-🔍 npm run lint
+### 🔍 Lint e correção de arquivos
+```npm run lint```

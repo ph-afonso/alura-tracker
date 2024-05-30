@@ -1,24 +1,24 @@
-# alura-tracker
+![Alura Tracker Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGwe5OOYeMF2IE2MMAX8Z-Ca0EUZXbmjzggw&s)
 
-## Project setup
-```
-npm install
-```
+Este é o **Alura Tracker**, um projeto desenvolvido durante um curso da Alura utilizando Vue JS, TypeScript, Buma Framework, Git e Git Flow.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Acesso ao Projeto
 
-### Compiles and minifies for production
-```
-npm run build
-```
+O projeto está hospedado na plataforma Vercel. Você pode acessá-lo [aqui](https://alura-tracker-theta-henna.vercel.app/).
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Como Utilizar
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Instalação
+🔧 npm install
+
+
+### Compilar e recarregar automaticamente para desenvolvimento
+🚀 npm run serve
+
+
+### Compilar e minificar para produção
+🛠️ npm run build
+
+
+### Lint e correção de arquivos
+🔍 npm run lint

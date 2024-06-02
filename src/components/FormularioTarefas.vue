@@ -2,7 +2,7 @@
     <div class="box formulario">
         <div class="columns is-flex is-align-items-center">
             <div class="column is-8" role="form" aria-label="Formulário para criação de nova tarefa">
-                <input class="input" type="text" placeholder="Qual tarefa você deseja iniciar?" v-model="descricao">
+                <input class="input is-link" type="text" placeholder="Qual tarefa você deseja iniciar?" v-model="descricao">
             </div>
             <div class="column">
                 <VisorTemporizador @aoTemporizadorFinalizado="finalizarTarefa"/>
